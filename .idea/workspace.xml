@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aaa4581-09f6-4321-b843-c2b18d704819" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.profile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
